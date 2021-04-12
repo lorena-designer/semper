@@ -1240,7 +1240,7 @@ footer span a:hover{
 
  .inicio{
     display: flex;
-    background: url("img/background1.png") no-repeat center;
+    background: url("img/backgr.png") no-repeat center;
     height: 100vh;
     color: #fbfbfb;
     min-height: 500px;
